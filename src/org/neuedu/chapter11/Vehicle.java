@@ -1,4 +1,4 @@
-package org.neuedu.chapter11.Test1;
+package org.neuedu.chapter11;
 //定义一个汽车类Vehicle，属性包括：汽车品牌brand（String类型）、
 // 颜色color（String类型）和速度speed（double类型）。
 // 至少提供一个有参的构造方法（要求品牌和颜色可以初始化为任意值，但速度的初始值必须为0）。

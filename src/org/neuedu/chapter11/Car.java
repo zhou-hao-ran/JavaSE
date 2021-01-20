@@ -1,4 +1,4 @@
-package org.neuedu.chapter11.Test1;
+package org.neuedu.chapter11;
 //定义一个Vehicle类的子类轿车类Car，要求如下：
 //轿车有自己的属性载人数loader（int 类型）。
 //提供该类初始化属性的构造方法。
